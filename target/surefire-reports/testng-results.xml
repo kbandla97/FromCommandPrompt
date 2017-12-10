@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9095" started-at="2017-12-09T17:07:41Z" finished-at="2017-12-09T17:07:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9095" started-at="2017-12-09T17:07:41Z" finished-at="2017-12-09T17:07:50Z">
+      <class name="com.SanityTests.Gmail">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.SanityTests.Gmail@ca9890e]" name="launchBrowser" is-config="true" duration-ms="8962" started-at="2017-12-09T22:37:41Z" finished-at="2017-12-09T22:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.SanityTests.Gmail@ca9890e]" name="doLogin" duration-ms="120" started-at="2017-12-09T22:37:50Z" finished-at="2017-12-09T22:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SanityTests.Gmail@ca9890e]" name="closeBrowser" is-config="true" duration-ms="648" started-at="2017-12-09T22:37:50Z" finished-at="2017-12-09T22:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SanityTests.Gmail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
